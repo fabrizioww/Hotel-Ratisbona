@@ -1,1 +1,1 @@
-hotel ratisbona
+hotel_ratisbona
